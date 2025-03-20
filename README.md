@@ -1,4 +1,3 @@
-# Power-BI-Capstone-Project-and-Sales-Analysis
 
 This repository contains a data analysis and visualization project combining Python for data preprocessing and Power BI for interactive dashboards. The goal is to analyze project cost, employee data, and sales performance, extracting insights to aid decision-making.
 
